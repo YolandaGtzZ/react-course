@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componente <GifGrid/> Tomar el snapshot del componente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__swing"
+  >
+    One Punch
+  </h3>
+  <p>
+    Loading
+  </p>
+  <div />
+</Fragment>
+`;
+
+exports[`Prueba del componente <GifGrid/> debe de mostrar items cuando se cargan las imagenes 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__swing"
+  >
+    One Punch
+  </h3>
+  <p>
+    Loading
+  </p>
+  <div />
+</Fragment>
+`;
